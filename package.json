@@ -20,7 +20,7 @@
     "start": "electron .",
     "lint": "eslint"
   },
-  "build": {
+  "build": { pr
     "appId": "com.emric.playermusic",
     "productName": "Aura Player",
     "directories": {
